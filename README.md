@@ -1,2 +1,2 @@
 # ildasm-blog-sample
-Code snippets for blog entry regarding ildasm
+Code snippets for [ILDASM for fun and glory](http://exceptionsfromhell.com/ildasm-for-fun-and-glory/)
